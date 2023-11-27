@@ -3,4 +3,4 @@ i welcome you to my profile
 my self pratyush ranjan
 i am an enginerring student at NIT DIMAPUR
 Currently learning c++with DSA & FRONTANT WEBDEVELOPMENT Just for money...
-skill>>>>money.
+skill>>>>money
